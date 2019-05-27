@@ -1,5 +1,5 @@
 # FTC Wiki 中文翻译
-原文指路[官方repo](https://github.com/ftctechnh/ftc_app/wiki)
+原文指路[官方repo](https://github.com/ftctechnh/ftc_app/wiki)  
 Repo主体在Wiki下
 
 ### 随缘更新
