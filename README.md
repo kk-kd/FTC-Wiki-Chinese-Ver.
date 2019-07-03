@@ -25,4 +25,6 @@ License: CC BY-NC-SA
 解决静电放电（ESD）效应  
 2019.06.28 
 使用外接 UVC 摄像头和带有外接电源的 USB hub  
+2019.07.03 
+使用 TensorFlow Lite 进行物体识别  
 
