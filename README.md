@@ -27,4 +27,6 @@ License: CC BY-NC-SA
 使用外接 UVC 摄像头和带有外接电源的 USB hub  
 2019.07.03 
 使用 TensorFlow Lite 进行物体识别  
+2019.07.08 
+更新疑难解答目录，Motorola 手机短暂断连
 
