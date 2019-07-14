@@ -28,5 +28,7 @@ License: CC BY-NC-SA
 2019.07.03 
 使用 TensorFlow Lite 进行物体识别  
 2019.07.08 
-更新疑难解答目录，Motorola 手机短暂断连
+更新疑难解答目录，Motorola 手机短暂断连  
+2019.07.14 
+糖果的小灶，关于 Control Hub，一些校对  
 
